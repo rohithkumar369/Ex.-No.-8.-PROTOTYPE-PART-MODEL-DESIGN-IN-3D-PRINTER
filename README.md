@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 03   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 03/09/2026
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### NAME : **S.Rohith kumar**
+### REG NO : **212224240153**
+## Rendered Output
+<img width="977" height="462" alt="image" src="https://github.com/user-attachments/assets/c5f02ca6-1d4e-44f5-b90f-f950614e7387" />
+
+## Fusion 360 
+<img width="946" height="592" alt="image" src="https://github.com/user-attachments/assets/9cc57dcc-8fac-4e02-ba31-eaaaa5310375" />
+
+## Ultimate Cura
+
+<img width="942" height="593" alt="image" src="https://github.com/user-attachments/assets/5154a962-5bc7-49e9-b402-39625fc1367d" />
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
